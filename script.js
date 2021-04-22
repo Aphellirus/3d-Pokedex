@@ -89,6 +89,41 @@ const pokelist =
         "tagA": 'water',
         "tagB": '',
         },
+        {
+        "number": "010",
+        "name": "Caterpie",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+        "tagA": 'Bug',
+        "tagB": '',
+        },
+        {
+        "number": "011",
+        "name": "Metapod",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+        "tagA": 'Bug',
+        "tagB": '',
+        },      
+        {
+        "number": "012",
+        "name": "Butterfree",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+        "tagA": 'Bug',
+        "tagB": 'Flying',
+        }
+        {
+        "number": "013",
+        "name": "Weedle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+        "tagA": 'Bug',
+        "tagB": 'Poison',
+        },
+        {
+        "number": "014",
+        "name": "Kakuna",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+        "tagA": 'Bug',
+        "tagB": 'Poison',
+        },          
     ]
 let con = -1
 let cover = 0
