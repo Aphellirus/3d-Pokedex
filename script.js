@@ -109,7 +109,7 @@ const pokelist =
         "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
         "tagA": 'Bug',
         "tagB": 'Flying',
-        }
+        },
         {
         "number": "013",
         "name": "Weedle",
@@ -123,7 +123,56 @@ const pokelist =
         "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
         "tagA": 'Bug',
         "tagB": 'Poison',
-        },          
+        },
+        {
+        "number": "015",
+        "name": "Beedrill",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+        "tagA": 'Bug',
+        "tagB": 'Poison',
+        },
+        {
+        "number": "016",
+        "name": "Pidgey",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+        "tagA": 'Normal',
+        "tagB": 'Flying',
+        },        
+        {
+        "number": "017",
+        "name": "Pidgeotto",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+        "tagA": 'Normal',
+        "tagB": 'Flying',
+        },
+        {
+        "number": "018",
+        "name": "Pidgeot",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+        "tagA": 'Normal',
+        "tagB": 'Flying',
+        },  
+        {
+        "number": "019",
+        "name": "Rattata",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+        "tagA": 'Normal',
+        "tagB": '',
+        },  
+        {
+        "number": "020",
+        "name": "Raticate",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+        "tagA": 'Normal',
+        "tagB": '',
+        },     
+        {
+        "number": "021",
+        "name": "Spearow",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+        "tagA": 'Normal',
+        "tagB": 'Flying',
+        },                                                       
     ]
 let con = -1
 let cover = 0
