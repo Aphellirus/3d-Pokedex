@@ -1,5 +1,3 @@
-// ************************************
-// ************************************
 const b = document.body
 
 const pokemon = document.querySelector("#pokemon")
